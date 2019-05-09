@@ -1,4 +1,15 @@
 {
 	"name": "@vh-victor/tiny",
-	"version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "victorevan/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "victorevan",
+    "@vh-victor"
+  ]
 }
